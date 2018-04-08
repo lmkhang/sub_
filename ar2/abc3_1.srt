@@ -1,0 +1,320 @@
+1
+0:0:0.087 --> 0:0:1.896
+Oliver:
+My name is Oliver Queen.
+
+2
+0:0:2.067 --> 0:0:4.174
+After 5 years in Hell,
+I returned home
+
+3
+0:0:4.175 --> 0:0:6.676
+with only one goal--
+to save my city,
+
+4
+0:0:6.677 --> 0:0:8.443
+but I couldn't honor that
+commitment
+
+5
+0:0:8.445 --> 0:0:11.546
+and honor the promise I made
+to the mother of my son,
+
+6
+0:0:11.548 --> 0:0:13.682
+so I asked the best man I know
+to help.
+
+7
+0:0:13.684 --> 0:0:15.250
+His name is John Diggle,
+
+8
+0:0:15.252 --> 0:0:18.887
+and he is the Green Arrow.
+
+9
+0:0:18.889 --> 0:0:20.689
+Previously on "Arrow"...
+
+10
+0:0:20.691 --> 0:0:22.691
+Quentin: Pollard--
+she's using last night's disaster
+
+11
+0:0:22.693 --> 0:0:24.126
+as a pretext to
+introduce her
+
+12
+0:0:24.128 --> 0:0:26.862
+anti-vigilante legislation
+to the council.
+
+13
+0:0:26.864 --> 0:0:29.564
+I am invoking chapter 9
+of the city charter.
+
+14
+0:0:29.566 --> 0:0:31.666
+That will convert
+councilwoman Pollard's bill
+
+15
+0:0:31.668 --> 0:0:33.568
+to a citywide
+referendum.
+
+16
+0:0:33.570 --> 0:0:34.736
+What do you want?
+
+17
+0:0:34.738 --> 0:0:36.738
+To operate
+without interference.
+
+18
+0:0:36.740 --> 0:0:38.740
+So you can keep
+killing people?
+
+19
+0:0:38.742 --> 0:0:40.842
+You don't seem to know
+that this is a war.
+
+20
+0:0:40.844 --> 0:0:44.079
+The Intel that you
+gave me on my son Joe panned out,
+
+21
+0:0:44.081 --> 0:0:45.847
+so I'm heading
+to Calgary.
+
+22
+0:0:45.849 --> 0:0:47.182
+Good luck, Slade.
+
+23
+0:1:0.831 --> 0:1:2.597
+Dinah: Ms. Pollard.
+
+24
+0:1:2.599 --> 0:1:5.100
+Captain wanted you to
+see the latest CompStat.
+
+25
+0:1:5.102 --> 0:1:6.801
+Thanks, Lieutenant.
+
+26
+0:1:13.443 --> 0:1:14.709
+Sniper!
+
+27
+0:1:14.711 --> 0:1:15.877
+[Gunshot]
+
+28
+0:1:15.879 --> 0:1:17.078
+Aah!
+
+29
+0:1:17.080 --> 0:1:19.481
+[Gunfire, people screaming]
+
+30
+0:1:24.721 --> 0:1:25.921
+Officer down.
+Code 3.
+
+31
+0:1:25.923 --> 0:1:27.122
+All units respond.
+
+32
+0:1:27.124 --> 0:1:29.491
+[Sirens]
+
+33
+0:1:33.306 --> 0:1:37.306
+♪ Arrow 6x05 ♪
+Deathstroke Returns
+Original Air Date on November 9, 2014
+
+34
+0:1:37.407 --> 0:1:44.307
+== sync, corrected by elderman ==
+@elder_man
+
+35
+0:1:44.308 --> 0:1:45.574
+Well, I'm just glad
+no one was seriously hurt.
+
+36
+0:1:45.576 --> 0:1:47.242
+How do you want
+to handle this?
+
+37
+0:1:47.244 --> 0:1:49.077
+I'd like you to
+issue a statement on my behalf.
+
+38
+0:1:49.079 --> 0:1:50.212
+On your behalf?
+
+39
+0:1:50.214 --> 0:1:52.147
+I have an old friend
+in town
+
+40
+0:1:52.149 --> 0:1:54.382
+that needs my help,
+and I might not be back
+
+41
+0:1:54.384 --> 0:1:56.084
+in the office
+for a few hours.
+
+42
+0:1:56.086 --> 0:1:58.019
+Do we have any idea
+who the shooter was targeting?
+
+43
+0:1:58.021 --> 0:1:59.254
+We're working on it.
+
+44
+0:1:59.256 --> 0:2:2.357
+Good. Um, be the mayor
+until I get back.
+
+45
+0:2:2.359 --> 0:2:3.725
+For real?
+
+46
+0:2:3.727 --> 0:2:5.694
+No. It's
+a figure of speech,
+
+47
+0:2:5.696 --> 0:2:8.797
+but j--just don't make any laws
+while I'm out of the office, ok?
+
+48
+0:2:8.799 --> 0:2:10.665
+Fine.
+
+49
+0:2:10.667 --> 0:2:12.867
+And don't worry
+about the shooter.
+
+50
+0:2:12.869 --> 0:2:14.369
+We're gonna nail
+his ass.
+
+51
+0:2:14.371 --> 0:2:15.837
+I know you will.
+
+52
+0:2:18.275 --> 0:2:21.710
+Sorry.
+That was work.
+
+53
+0:2:21.712 --> 0:2:23.845
+Slade: Don't apologize.
+
+54
+0:2:23.847 --> 0:2:26.047
+I appreciate
+the meeting.
+
+55
+0:2:26.049 --> 0:2:28.250
+You helped me find my son.
+
+56
+0:2:28.252 --> 0:2:30.151
+Least I can is help
+you find Joe.
+
+57
+0:2:30.153 --> 0:2:32.821
+He doesn't go
+by that name anymore.
+
+58
+0:2:32.823 --> 0:2:34.356
+Changed his name?
+
+59
+0:2:34.358 --> 0:2:36.725
+It was his
+mother's idea.
+
+60
+0:2:36.727 --> 0:2:39.160
+Her maiden name.
+
+61
+0:2:39.162 --> 0:2:41.696
+He goes by Kane now.
+
+62
+0:2:41.698 --> 0:2:43.198
+What happened
+to him?
+
+63
+0:2:43.200 --> 0:2:45.267
+I tracked him
+to Calgary,
+
+64
+0:2:45.269 --> 0:2:48.103
+but by then, he'd gone,
+
+65
+0:2:48.105 --> 0:2:51.206
+so I followed him
+to Ibiza--heh--
+
+66
+0:2:51.208 --> 0:2:53.174
+and then Mombassa.
+
+67
+0:2:53.176 --> 0:2:54.876
+Mombassa?
+
+68
+0:2:56.713 --> 0:2:59.881
+The kid took
+after his father.
+
+69
+0:2:59.883 --> 0:3:1.683
+While we were stuck
+on Lian Yu,
+
